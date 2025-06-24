@@ -35,11 +35,10 @@ describe("Test find product use case", () => {
         const result = await useCase.execute(input);
 
         const output = {
+            id: result.id,
             name: "name",
             price: 100,
         };
-
-        output.id = result.id;
 
         expect(result).toEqual(output);
     });
