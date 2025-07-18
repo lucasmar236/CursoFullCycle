@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ab630f6-60ad-4f82-b2b0-25b2c86183cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/product/entity/product-b.ts" beforeDir="false" afterPath="$PROJECT_DIR$/domain/product/entity/product-b.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/product/entity/product.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/domain/product/entity/product.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/product/entity/product.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/domain/product/entity/product.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/product/entity/product.ts" beforeDir="false" afterPath="$PROJECT_DIR$/domain/product/entity/product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/product/repository/product-repository.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/domain/product/repository/product-repository.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api/__tests__/customer.e2e.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/api/__tests__/customer.e2e.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/api/express.ts" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/api/express.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/order/repository/sequilize/order-item.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/order/repository/sequilize/order-item.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/product/repository/sequelize/product.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/product/repository/sequelize/product.repository.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2zEkBYaUpeT0RsELbnKw057O3gs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/lucas/Documents/gl/gojs",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ab630f6-60ad-4f82-b2b0-25b2c86183cc" name="Changes" comment="" />
+      <created>1751303485489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751303485489</updated>
+      <workItem from="1751303486746" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
